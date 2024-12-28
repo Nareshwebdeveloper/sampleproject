@@ -59,8 +59,8 @@ export function CounterExample(){
                     <thead>
                         <tr>
                             <th>Name:</th>
-                            <th>Last Name</th>
-                            <th>Age</th>
+                            <th>Last Name:</th>
+                            <th>Age:</th>
                         </tr>
                     </thead>
 
